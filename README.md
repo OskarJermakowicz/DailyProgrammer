@@ -5,4 +5,4 @@
 | Challenge date  | Challenge nbr   | Language |
 | --------------- | --------------- | -------- |
 | 2016-02-16      | 254             | Java     |
-| yyyy-mm-dd      | ...             | ...      |
+| 2015-12-14      | 245             | Java     |
