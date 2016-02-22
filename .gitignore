@@ -1,3 +1,4 @@
+######################################### Java related ignores ######################################### 
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -17,6 +18,8 @@ hs_err_pid*
 *.class
 *.idea
 *.iml
+
+######################################### C++ related ignores ######################################### 
 
 # Compiled Object files
 *.slo
