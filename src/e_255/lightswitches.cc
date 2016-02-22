@@ -1,5 +1,7 @@
 #include <iostream>
+#include <fstream>
 #include <vector>
+#include <ctime>
 
 using namespace std;
 
@@ -34,19 +36,23 @@ void solve(int switches, vector<int> from, vector<int> to) {
 }
 
 int main() {
-	int switches = 10;
+	int starttime = clock();
+
+	int switches;
 	vector<int> from;
 	vector<int> to;
-	
-	from.push_back(3);
-	from.push_back(0);
-	from.push_back(7);
-	from.push_back(9);
 
-	to.push_back(6);
-	to.push_back(4);
-	to.push_back(3);
-	to.push_back(9);
+	fstream inputfile("challengeinput.txt", ios_base::in);
+	
+	inputfile >> switches;
+
+	int f, t;
+	while (inputfile >> f >> t) {
+		from.push_back(f);
+		to.push_back(t);
+	}
 
 	solve(switches, from, to);
+
+	cout << "\n*** Execution time: " << (clock() - starttime) / double(CLOCKS_PER_SEC) * 1000 << endl;
 }
