@@ -4,6 +4,7 @@
 
 | Challenge  | Challenge ID   | Language |
 | ---------- | -------------- | -------- |
+| 320h | [Path to Philosophy](https://www.reddit.com/r/dailyprogrammer/comments/6j7k3x/20170624_challenge_320_hard_path_to_philosophy/) | Python |
 | 320i | [War (card game)](https://www.reddit.com/r/dailyprogrammer/comments/6ilyfi/20170621_challenge_320_intermediate_war_card_game/) | Python |
 | 320e | [Spiral Ascension](https://www.reddit.com/r/dailyprogrammer/comments/6i60lr/20170619_challenge_320_easy_spiral_ascension/) | Python |
 | 319e | [Condesing Sentences](https://www.reddit.com/r/dailyprogrammer/comments/6grwny/20170612_challenge_319_easy_condensing_sentences/) | Python |
