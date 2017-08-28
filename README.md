@@ -2,8 +2,9 @@
 
 ### Completed DailyProgrammer challenges:
 
-| Challenge  | Challenge ID   | Language |
-| ---------- | -------------- | -------- |
+| Challenge ID | Challenge | Language |
+| ------------ | --------- | -------- |
+| 328e | [Latin Squares](https://www.reddit.com/r/dailyprogrammer/comments/6v29zk/170821_challenge_328_easy_latin_squares/) | Python |
 | 321e | [Talking Clock](https://www.reddit.com/r/dailyprogrammer/comments/6jr76h/20170627_challenge_321_easy_talking_clock/) | Python |
 | 320h | [Path to Philosophy](https://www.reddit.com/r/dailyprogrammer/comments/6j7k3x/20170624_challenge_320_hard_path_to_philosophy/) | Python |
 | 320i | [War (card game)](https://www.reddit.com/r/dailyprogrammer/comments/6ilyfi/20170621_challenge_320_intermediate_war_card_game/) | Python |
