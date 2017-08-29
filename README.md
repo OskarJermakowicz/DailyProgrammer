@@ -4,6 +4,7 @@
 
 | Challenge ID | Challenge | Language |
 | ------------ | --------- | -------- |
+| 329e | [Nearest Lucky Numbers](https://www.reddit.com/r/dailyprogrammer/comments/6wjscp/2017828_challenge_329_easy_nearest_lucky_numbers/) | Python |
 | 328e | [Latin Squares](https://www.reddit.com/r/dailyprogrammer/comments/6v29zk/170821_challenge_328_easy_latin_squares/) | Python |
 | 321e | [Talking Clock](https://www.reddit.com/r/dailyprogrammer/comments/6jr76h/20170627_challenge_321_easy_talking_clock/) | Python |
 | 320h | [Path to Philosophy](https://www.reddit.com/r/dailyprogrammer/comments/6j7k3x/20170624_challenge_320_hard_path_to_philosophy/) | Python |
