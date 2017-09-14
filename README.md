@@ -4,6 +4,7 @@
 
 | Challenge  | Challenge ID   | Language |
 | ---------- | -------------- | -------- |
+| 331e | [The Adding Calculator](https://www.reddit.com/r/dailyprogrammer/comments/6ze9z0/20170911_challenge_331_easy_the_adding_calculator/) | Python |
 | 330e | [Surround The Circles](https://www.reddit.com/r/dailyprogrammer/comments/6y19v2/20170904_challenge_330_easy_surround_the_circles/) | Python |
 | 329e | [Nearest Lucky Numbers](https://www.reddit.com/r/dailyprogrammer/comments/6wjscp/2017828_challenge_329_easy_nearest_lucky_numbers/) | Python |
 | 328e | [Latin Squares](https://www.reddit.com/r/dailyprogrammer/comments/6v29zk/170821_challenge_328_easy_latin_squares/) | Python |
